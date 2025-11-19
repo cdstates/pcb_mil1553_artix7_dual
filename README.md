@@ -4,6 +4,10 @@ A practice PCB project converting a quad MIL-STD-1553 connection design to an op
 
 ![PCB Overview - Original Quad Version](readme_dependancies/scrsho_pcb_overview_quad_v1.png)
 
+To adapt to a dual traix connector version with greater galvanic isolation to reduce noise, below is the current flow chart plan for the entire board make up.
+<img width="1240" height="759" alt="image" src="https://github.com/user-attachments/assets/5d5ff565-8619-46d4-bed8-679be0af9ed2" />
+
+
 ## Project Overview
 
 This project represents an evolution in MIL-STD-1553 protocol adapter design, transitioning from a quad-channel to a more streamlined dual-channel architecture while significantly improving the USB and Ethernet interfaces.
